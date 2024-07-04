@@ -28,9 +28,9 @@ export const Footer = () => {
             </Link>
           </li>
           <li>
-            <a href="#" target="_blank" className="hover:underline">
+            <Link to="movie/upcoming" className="hover:underline">
               Github
-            </a>
+            </Link>
           </li>
         </ul>
       </div>
