@@ -25,7 +25,7 @@ export const Header = () => {
           >
             <img src={logo} className="h-8" alt="cine-list Logo" />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              CineLists
+              CineList
             </span>
           </Link>
 
