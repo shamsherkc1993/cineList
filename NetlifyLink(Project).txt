@@ -1,0 +1,3 @@
+Here is the link for the project that is deployed on netlify
+https://cinelist-kc.netlify.app/
+
